@@ -40,5 +40,5 @@
 ## GitHub Activity
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bellue&theme=github-compact&hide_border=true&area=true" alt="Bellue's contribution graph" />
+  <img width="100%" src="./profile-3d-contrib/profile-night-green.svg" alt="Bellue's 3D contribution graph" />
 </div>
